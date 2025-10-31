@@ -14,7 +14,7 @@ Run on your terminal `npm run watch:dev`, the server will restart everytime you 
 
 For stuff like heroku deployment, aws elasticbeanstalk, run `npm run start`
 
-### Other scripts
+### Other scripts  Other scripts
 
 * `transpile` - convert es6 and beyond code to es5 to a folder named `dist-server`
 * `clean` - delete transpiled folder
